@@ -3,19 +3,21 @@ import MainLayout from '../layouts/MainLayout.astro';
 import LandingHero from '../components/LandingHero-1.astro';
 import FeaturedGallery from '../components/FeaturedGallery.astro';
 import FeaturedWorkScroll from '../components/FeaturedWorkScroll.astro';
+
+// Obtener base para rutas absolutas
+const base = Astro.site?.pathname ?? '';
+
 ---
 
 <MainLayout>
 	<section class="relative min-h-screen items-center flex py-20 md:py-16 overflow-hidden">
 		<div class="relative w-full h-[60vh] flex items-center justify-center mb-10">
-			<img 
-				src="public/images/home.jpg" 
-				alt="Banner" 
+			<img
+				src={`${base}/images/home.jpg`}
+				alt="Banner"
 				class="absolute inset-0 w-full h-full object-cover z-0"
 			/>
-			<div class="relative z-10 text-white text-center px-4">
-				
-			</div>
+			<div class="relative z-10 text-white text-center px-4"></div>
 			<div class="absolute inset-0 bg-black/40 z-0"></div>
 		</div>
 		<LandingHero />
