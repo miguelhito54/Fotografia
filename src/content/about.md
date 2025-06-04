@@ -1,14 +1,19 @@
 ---
-title: About me
+title: Descubre
 ---
+ 
 
-### Hi, I'm Sara Richard 👋
 
-I've been a photographer for over 10 years, focusing primarily on landscape and portrait photography. My journey began
-with a simple point-and-shoot camera while traveling through the mountains of Colorado, which sparked a passion that has
-taken me across the globe.
-My approach to photography centers on finding the extraordinary in ordinary moments. I believe that beauty exists
-everywhere – in urban streets, remote wilderness, and human connections. My goal is to capture these fleeting instances
-in a way that allows viewers to see the world through a different lens.
-When I'm not behind the camera, you can find me hiking in national parks, exploring new cities, or enjoying a cup of
-coffee at local cafés while planning my next photo adventure.
+En Instante Vivo creemos que cada fotografía es una pequeña cápsula de tiempo. No solo se trata de luz y encuadre, sino de alma. Un gesto, una mirada, una sombra que dice más que mil palabras.
+
+Somos amantes del instante. Esos que no se repiten, pero que pueden volver a sentirse a través de una imagen. Aquí no solo verás fotos, verás memoria, emoción, fragmentos de vida que resisten al olvido.
+
+Este espacio nace para observar el mundo con pausa. Para quienes encuentran belleza en lo cotidiano y significado en lo fugaz.
+
+Bienvenida, bienvenido. Estás en el lugar donde la memoria se hace visible.
+
+
+
+
+
+

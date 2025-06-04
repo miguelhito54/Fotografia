@@ -10,7 +10,7 @@ export interface SocialLink {
 export default {
 	title: 'SR',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
+	owner: 'Instante Vivo',
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
