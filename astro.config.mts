@@ -3,8 +3,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://rockem.github.io',
-	base: 'astro-photography-portfolio',
+	site: 'https://instantevivo.netlify.app/', // Opcional, puedes dejarlo vacío
 	vite: {
 		plugins: [tailwindcss()],
 	},
